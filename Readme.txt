@@ -1,3 +1,15 @@
+Multiple Linear Regression
+
+Problem Statement:
+BoomBikes, a US bike-sharing provider, has experienced significant revenue declines due to the ongoing COVID-19 pandemic. The company is struggling to survive in the current market conditions. To prepare for the post-quarantine period and to better meet the anticipated demand for shared bikes, BoomBikes aims to understand the factors influencing bike demand. By doing so, they hope to outperform competitors and achieve substantial profits.
+
+Objective:
+The company seeks to identify the key variables that significantly impact the demand for shared bikes and understand how well these variables explain the variation in bike demand.
+
+Goal: The ultimate goal is to develop a predictive model that highlights these significant variables. The insights gained from this model will help the management formulate effective business strategies to align with customer demand and enhance service delivery.
+
+
+
 =========================================
 Dataset characteristics
 =========================================	
